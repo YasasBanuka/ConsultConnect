@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482869057401",
+    "project_id": "consultconnect-54be2",
+    "storage_bucket": "consultconnect-54be2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482869057401:android:037a0dbed0bacfe7e0c1a8",
+        "android_client_info": {
+          "package_name": "com.webdynamo.consultconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLTBhVI492o_iJw_cERuObLpWAlhgPht0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

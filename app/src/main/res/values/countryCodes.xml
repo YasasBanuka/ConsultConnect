@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="country_codes">
+        <item>🇦🇫 +93 (Afghanistan)</item>
+        <item>🇦🇱 +355 (Albania)</item>
+        <item>🇩🇿 +213 (Algeria)</item>
+        <item>🇦🇩 +376 (Andorra)</item>
+        <item>🇦🇴 +244 (Angola)</item>
+        <item>🇦🇷 +54 (Argentina)</item>
+        <item>🇦🇲 +374 (Armenia)</item>
+        <item>🇦🇺 +61 (Australia)</item>
+        <item>🇦🇹 +43 (Austria)</item>
+        <item>🇦🇿 +994 (Azerbaijan)</item>
+        <item>🇧🇩 +880 (Bangladesh)</item>
+        <item>🇧🇪 +32 (Belgium)</item>
+        <item>🇧🇷 +55 (Brazil)</item>
+        <item>🇧🇬 +359 (Bulgaria)</item>
+        <item>🇨🇦 +1 (Canada)</item>
+        <item>🇨🇳 +86 (China)</item>
+        <item>🇨🇴 +57 (Colombia)</item>
+        <item>🇭🇷 +385 (Croatia)</item>
+        <item>🇨🇺 +53 (Cuba)</item>
+        <item>🇨🇾 +357 (Cyprus)</item>
+        <item>🇨🇿 +420 (Czech Republic)</item>
+        <item>🇩🇰 +45 (Denmark)</item>
+        <item>🇪🇬 +20 (Egypt)</item>
+        <item>🇪🇪 +372 (Estonia)</item>
+        <item>🇫🇮 +358 (Finland)</item>
+        <item>🇫🇷 +33 (France)</item>
+        <item>🇩🇪 +49 (Germany)</item>
+        <item>🇬🇷 +30 (Greece)</item>
+        <item>🇭🇰 +852 (Hong Kong)</item>
+        <item>🇮🇳 +91 (India)</item>
+        <item>🇮🇩 +62 (Indonesia)</item>
+        <item>🇮🇪 +353 (Ireland)</item>
+        <item>🇮🇱 +972 (Israel)</item>
+        <item>🇮🇹 +39 (Italy)</item>
+        <item>🇯🇵 +81 (Japan)</item>
+        <item>🇰🇿 +7 (Kazakhstan)</item>
+        <item>🇰🇪 +254 (Kenya)</item>
+        <item>🇰🇷 +82 (South Korea)</item>
+        <item>🇱🇦 +856 (Laos)</item>
+        <item>🇱🇻 +371 (Latvia)</item>
+        <item>🇱🇹 +370 (Lithuania)</item>
+        <item>🇱🇺 +352 (Luxembourg)</item>
+        <item>🇲🇾 +60 (Malaysia)</item>
+        <item>🇲🇻 +960 (Maldives)</item>
+        <item>🇲🇽 +52 (Mexico)</item>
+        <item>🇲🇳 +976 (Mongolia)</item>
+        <item>🇲🇦 +212 (Morocco)</item>
+        <item>🇳🇵 +977 (Nepal)</item>
+        <item>🇳🇱 +31 (Netherlands)</item>
+        <item>🇳🇿 +64 (New Zealand)</item>
+        <item>🇳🇬 +234 (Nigeria)</item>
+        <item>🇳🇴 +47 (Norway)</item>
+        <item>🇵🇰 +92 (Pakistan)</item>
+        <item>🇵🇭 +63 (Philippines)</item>
+        <item>🇵🇱 +48 (Poland)</item>
+        <item>🇵🇹 +351 (Portugal)</item>
+        <item>🇷🇴 +40 (Romania)</item>
+        <item>🇷🇺 +7 (Russia)</item>
+        <item>🇸🇦 +966 (Saudi Arabia)</item>
+        <item>🇷🇸 +381 (Serbia)</item>
+        <item>🇸🇬 +65 (Singapore)</item>
+        <item>🇸🇰 +421 (Slovakia)</item>
+        <item>🇸🇮 +386 (Slovenia)</item>
+        <item>🇿🇦 +27 (South Africa)</item>
+        <item>🇪🇸 +34 (Spain)</item>
+        <item>🇱🇰 +94 (Sri Lanka)</item>
+        <item>🇸🇪 +46 (Sweden)</item>
+        <item>🇨🇭 +41 (Switzerland)</item>
+        <item>🇹🇭 +66 (Thailand)</item>
+        <item>🇹🇷 +90 (Turkey)</item>
+        <item>🇺🇦 +380 (Ukraine)</item>
+        <item>🇦🇪 +971 (United Arab Emirates)</item>
+        <item>🇬🇧 +44 (United Kingdom)</item>
+        <item>🇺🇸 +1 (United States)</item>
+        <item>🇻🇳 +84 (Vietnam)</item>
+        <item>🇿🇼 +263 (Zimbabwe)</item>
+    </string-array>
+</resources>

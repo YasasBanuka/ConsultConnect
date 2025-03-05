@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="honorifics">
+        <item>Mr.</item>
+        <item>Mrs.</item>
+        <item>Miss</item>
+        <item>Dr.</item>
+        <item>Prof.</item>
+        <item>Master</item>
+        <item>Rev.</item>
+        <item>Hon.</item>
+    </string-array>
+</resources>

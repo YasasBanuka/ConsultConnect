@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries">
+        <item>🇦🇫 Afghanistan</item>
+        <item>🇦🇱 Albania</item>
+        <item>🇩🇿 Algeria</item>
+        <item>🇦🇩 Andorra</item>
+        <item>🇦🇴 Angola</item>
+        <item>🇦🇷 Argentina</item>
+        <item>🇦🇲 Armenia</item>
+        <item>🇦🇺 Australia</item>
+        <item>🇦🇹 Austria</item>
+        <item>🇦🇿 Azerbaijan</item>
+        <item>🇧🇩 Bangladesh</item>
+        <item>🇧🇪 Belgium</item>
+        <item>🇧🇷 Brazil</item>
+        <item>🇧🇬 Bulgaria</item>
+        <item>🇨🇦 Canada</item>
+        <item>🇨🇳 China</item>
+        <item>🇨🇴 Colombia</item>
+        <item>🇭🇷 Croatia</item>
+        <item>🇨🇺 Cuba</item>
+        <item>🇨🇾 Cyprus</item>
+        <item>🇨🇿 Czech Republic</item>
+        <item>🇩🇰 Denmark</item>
+        <item>🇪🇬 Egypt</item>
+        <item>🇪🇪 Estonia</item>
+        <item>🇫🇮 Finland</item>
+        <item>🇫🇷 France</item>
+        <item>🇩🇪 Germany</item>
+        <item>🇬🇷 Greece</item>
+        <item>🇭🇰 Hong Kong</item>
+        <item>🇮🇳 India</item>
+        <item>🇮🇩 Indonesia</item>
+        <item>🇮🇪 Ireland</item>
+        <item>🇮🇱 Israel</item>
+        <item>🇮🇹 Italy</item>
+        <item>🇯🇵 Japan</item>
+        <item>🇰🇿 Kazakhstan</item>
+        <item>🇰🇪 Kenya</item>
+        <item>🇰🇷 South Korea</item>
+        <item>🇱🇦 Laos</item>
+        <item>🇱🇻 Latvia</item>
+        <item>🇱🇹 Lithuania</item>
+        <item>🇱🇺 Luxembourg</item>
+        <item>🇲🇾 Malaysia</item>
+        <item>🇲🇻 Maldives</item>
+        <item>🇲🇽 Mexico</item>
+        <item>🇲🇳 Mongolia</item>
+        <item>🇲🇦 Morocco</item>
+        <item>🇳🇵 Nepal</item>
+        <item>🇳🇱 Netherlands</item>
+        <item>🇳🇿 New Zealand</item>
+        <item>🇳🇬 Nigeria</item>
+        <item>🇳🇴 Norway</item>
+        <item>🇵🇰 Pakistan</item>
+        <item>🇵🇭 Philippines</item>
+        <item>🇵🇱 Poland</item>
+        <item>🇵🇹 Portugal</item>
+        <item>🇷🇴 Romania</item>
+        <item>🇷🇺 Russia</item>
+        <item>🇸🇦 Saudi Arabia</item>
+        <item>🇷🇸 Serbia</item>
+        <item>🇸🇬 Singapore</item>
+        <item>🇸🇰 Slovakia</item>
+        <item>🇸🇮 Slovenia</item>
+        <item>🇿🇦 South Africa</item>
+        <item>🇪🇸 Spain</item>
+        <item>🇱🇰 Sri Lanka</item>
+        <item>🇸🇪 Sweden</item>
+        <item>🇨🇭 Switzerland</item>
+        <item>🇹🇭 Thailand</item>
+        <item>🇹🇷 Turkey</item>
+        <item>🇺🇦 Ukraine</item>
+        <item>🇦🇪 United Arab Emirates</item>
+        <item>🇬🇧 United Kingdom</item>
+        <item>🇺🇸 United States</item>
+        <item>🇻🇳 Vietnam</item>
+        <item>🇿🇼 Zimbabwe</item>
+    </string-array>
+</resources>
